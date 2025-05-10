@@ -4,5 +4,8 @@ public class SubTwoNumbers {
        int j=5;
        int diff=j-i;
         System.out.println("the difference is "+diff);
+        System.out.println(2+2);
+
+
     }
 }
