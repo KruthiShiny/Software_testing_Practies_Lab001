@@ -2,7 +2,15 @@ package JavaBasicsClass01;
 
 public class multiple3 {
     public static void main(String[] args) {
-         int x=1,y=2,z=3;
+      int i;
+       int n=3;
+
+       for(i=1;i<=10;i++){
+           int result= n*i;
+           System.out.println(n+"*"+i+"="+result);
+       }
+
+
 
 
 
