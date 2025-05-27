@@ -8,9 +8,9 @@ public class Factorial {
         System.out.println("enter the factorial number:");
         int n= sc.nextInt();
         int fact=1;
-        if(n==0){
-            System.out.println(fact);
-        }
+       // if(n==0){
+         //   System.out.println(fact);
+        //}
         for(int i=1;i<=n;i++)
         {
             fact=fact*i;
